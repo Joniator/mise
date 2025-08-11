@@ -1,5 +1,13 @@
 # Changelog
 
+## [2025.8.9](https://github.com/jdx/mise/compare/v2025.8.8..v2025.8.9) - 2025-08-11
+
+### 📦️ Dependency Updates
+
+- update taiki-e/install-action digest to 2c73a74 by [@renovate[bot]](https://github.com/renovate[bot]) in [#5962](https://github.com/jdx/mise/pull/5962)
+- update docker/metadata-action digest to c1e5197 by [@renovate[bot]](https://github.com/renovate[bot]) in [#5961](https://github.com/jdx/mise/pull/5961)
+- update docker/login-action digest to 184bdaa by [@renovate[bot]](https://github.com/renovate[bot]) in [#5958](https://github.com/jdx/mise/pull/5958)
+
 ## [2025.8.8](https://github.com/jdx/mise/compare/v2025.8.7..v2025.8.8) - 2025-08-11
 
 ### 📦 Registry
@@ -8,6 +16,7 @@
 - support usage on FreeBSD by [@risu729](https://github.com/risu729) in [#5973](https://github.com/jdx/mise/pull/5973)
 - filter out installer for podman by [@risu729](https://github.com/risu729) in [#5974](https://github.com/jdx/mise/pull/5974)
 - use pipx aqua backend by [@itochan](https://github.com/itochan) in [#5971](https://github.com/jdx/mise/pull/5971)
+- only use aqua backend for yarn on windows by [@jdx](https://github.com/jdx) in [#5978](https://github.com/jdx/mise/pull/5978)
 
 ### 📚 Documentation
 
